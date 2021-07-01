@@ -21,7 +21,7 @@
     &kp ESC    &kp A      &kp S      &kp D      &kp F      &kp G                                &kp H      &kp J      &kp K      &kp L      &kp P      &kp APOS
     &kp DEL    &kp Z      &kp X      &kp C      &kp V      &kp B      &kp C_VOL_DN   &kp C_PP   &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH   &kp EQUAL
     &to GAM    &kp PSCRN  &kp LCTRL  &kp LALT   &kp LGUI                                                   &kp LEFT   &kp DOWN   &kp UP     &kp RIGHT  &to CON
-                                                           &none      &to  WIN       &kp C_PREV &kp C_NEXT
+                                                           &none      &to WIN        &kp C_PREV &kp C_NEXT
                                                                       &kp C_BRI_UP   &kp PG_UP
                                                 &kp LSFT   &kp BSPC                             &kp RETURN &kp SPACE
                                                                       &kp C_BRI_DN   &kp PG_DN
@@ -36,7 +36,7 @@
     &kp ESC    &kp A      &kp S      &kp D      &kp F      &kp G                                &kp H      &kp J      &kp K      &kp L      &kp P      &kp APOS
     &kp DEL    &kp Z      &kp X      &kp C      &kp V      &kp B      &kp C_VOL_DN   &kp C_PP   &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH   &kp EQUAL
     &to GAM    &kp PSCRN  &kp LGUI   &kp LALT   &kp LCTRL                                                  &kp LEFT   &kp DOWN   &kp UP     &kp RIGHT  &to CON
-                                                           &to  MAC   &none          &kp C_PREV &kp C_NEXT
+                                                           &to MAC    &none          &kp C_PREV &kp C_NEXT
                                                                       &kp C_BRI_UP   &kp PG_UP
                                                 &kp LSFT   &kp BSPC                             &kp RETURN &kp SPACE
                                                                       &kp C_BRI_DN   &kp PG_DN
@@ -51,7 +51,7 @@
     &kp CAPS   &kp A      &kp S      &kp D      &kp F      &kp G                                &kp H      &kp J      &kp K      &kp L      &kp P      &kp APOS
     &kp LSFT   &kp Z      &kp X      &kp C      &kp V      &kp B      &kp C_VOL_DN   &kp C_PP   &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH   &kp EQUAL
     &none      &kp PSCRN  &kp LGUI   &kp LALT   &kp LCTRL                                                  &kp LEFT   &kp DOWN   &kp UP     &kp RIGHT  &to CON
-                                                           &to  MAC   &to WIN        &kp C_PREV &kp C_NEXT
+                                                           &to MAC    &to WIN        &kp C_PREV &kp C_NEXT
                                                                       &kp C_BRI_UP   &kp PG_UP
                                                 &kp SPACE  &kp ESC                              &kp RETURN &kp BSPC
                                                                       &kp C_BRI_DN   &kp PG_DN
@@ -66,7 +66,7 @@
     &none      &kp F5     &kp F6     &kp F7     &kp F8     &none                            &none      &none      &none      &none      &bootloader  &bt BT_SEL 2
     &none      &kp F9     &kp F10    &kp F11    &kp F12    &none      &none      &none      &none      &none      &none      &none      &none        &bt BT_SEL 3
     &to GAM    &none      &none      &none      &none                                                  &none      &none      &none      &out OUT_TOG &bt BT_SEL 4
-                                                           &to  MAC   &to WIN    &none      &none 
+                                                           &to MAC    &to WIN    &none      &none 
                                                                       &none      &none 
                                                 &none      &none                            &none      &tog TST 
                                                                       &none      &none 
